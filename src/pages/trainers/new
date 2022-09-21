@@ -1,0 +1,13 @@
+<section className="trainers">
+    <div className="container trainers_container">
+      {
+      trainers.map(({id, image, name, job, socials})=> {
+        <Trainer key={id} image={image} name={name} job={job} socials={
+          
+       }/>
+
+    })
+
+  }
+</div>
+</section>
