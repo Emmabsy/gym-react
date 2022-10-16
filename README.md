@@ -1,6 +1,4 @@
 # react-gym-website
-
-<h2> This project is free to use and does not contains any license. </h2>
 <h3 align="center">
 GymX is a completely responsive gym website that is compatible with all mobile devices. <br>
  The application is built  react,  HTML and CSS 
@@ -16,8 +14,9 @@ GymX is a completely responsive gym website that is compatible with all mobile d
 
 -
 
-## 🌱 I
+## 🌱 
 
 
 
-## T
+## License
+-This project is free to use and does not contains any license
