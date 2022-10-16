@@ -1,2 +1,2 @@
 # React-gym-website
-DevBlog - A Personal Blog Website
+GymX is a completely responsive gym website that is compatible with all mobile devices. The application is built  react,  HTML and CSS 
