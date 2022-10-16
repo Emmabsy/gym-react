@@ -1,7 +1,7 @@
 # react-gym-website
 <h3>
 GymX is a completely responsive gym website that is compatible with all mobile devices. <br>
- The application is built  react,  HTML and CSS 
+ The application is built in react,  HTML and CSS 
 </h3>
 
 
